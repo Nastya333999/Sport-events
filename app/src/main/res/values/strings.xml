@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sport events viewer</string>
+    <string name="empty_text">No sport events for you...</string>
+    <string name="error_text">Some error occurred :(((</string>
+    <string name="loading_text">Loading...</string>
+    <string name="retry">Retry</string>
+</resources>
